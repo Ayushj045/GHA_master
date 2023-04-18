@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "356984192539",
+    "project_id": "gha-master",
+    "storage_bucket": "gha-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356984192539:android:f243be499ca209bcd642be",
+        "android_client_info": {
+          "package_name": "com.example.gha_master"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356984192539-5qip98jdqt3u485cfngeu33lfrmm98jt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM807h02alNHbvgGz0X8hn28sApIoPhF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356984192539-5qip98jdqt3u485cfngeu33lfrmm98jt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
